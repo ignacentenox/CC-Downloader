@@ -1,4 +1,4 @@
-# PyQt Downloader
+CC-Downloader
 
 Este proyecto es una aplicación de escritorio desarrollada en Python utilizando PyQt6, diseñada para permitir a los usuarios descargar música y videos en la máxima calidad posible a partir de enlaces de listas de reproducción.
 
