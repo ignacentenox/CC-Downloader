@@ -21,8 +21,8 @@ pyqt-downloader
 
 1. Clona el repositorio:
    ```
-   git clone <URL_DEL_REPOSITORIO>
-   cd pyqt-downloader
+   git clone https://github.com/ignacentenox/CC-Downloader.git
+   cd downloader
    ```
 
 2. Instala las dependencias:
